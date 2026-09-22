@@ -6,11 +6,11 @@
 
 ## About this project
 
-- This is a documentation site built on [Mintlify](https://mintlify.com)
+- This is a documentation site built on [Mintlify](https://mintlify.com) test
 - Pages are MDX files with YAML frontmatter
 - Configuration lives in `docs.json`
 - Use the Mintlify MCP server, `https://mcp.mintlify.com`, to edit content and settings via MCP
-- Use the Mintlify docs MCP server, `https://www.mintlify.com/docs/mcp`, to query information about using Mintlify via MCP
+- Use the Mintlify docs MCP server, `https://www.mintlify.com/docs/mcp`, to query information about using Mintlify via MCP test
 
 ## Terminology
 
