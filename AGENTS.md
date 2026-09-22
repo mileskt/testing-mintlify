@@ -3,7 +3,7 @@
 > install the Mintlify skill: `npx skills add https://mintlify.com/docs`
 
 # Documentation project instructions Testing
-test
+testtest
 ## About this project
 
 - This is a documentation site built on [Mintlify](https://mintlify.com) test
